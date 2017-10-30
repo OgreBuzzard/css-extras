@@ -1,0 +1,132 @@
+body {
+  font-family: 'helvetica';
+  color: #494949;
+  width: 687px;
+  margin: auto;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 14px;
+  display: inline;
+  position: absolute;
+  bottom: 8px;
+  left: 42px;
+}
+
+h2 {
+  font-size: 9px;
+  display: inline;
+  color: #D0D0D0;
+  margin: 5px;
+}
+
+h3 {
+  font-size: 9px;
+  display: inline;
+  color: #53CFAB;
+  margin: 10px 5px 10px 10px;
+}
+
+h4 {
+  font-size: 9px;
+  display: inline;
+  color: #747474;
+  margin: 10px 10px 10px 5px;
+}
+
+h5 {
+  font-weight: bold;
+  font-size: 14px;
+  display: inline-block;
+  margin-left: 8px;
+  margin-top: 45px;
+  width: 50%;
+}
+
+h6 {
+  font-size: 11px;
+  display: inline;
+  color: #D0D0D0;
+  margin: 5px;
+}
+
+header {
+  position: relative;
+  height: 48px;
+}
+
+nav {
+  margin: auto;
+  height: 30px;
+}
+
+.logo {
+  float:left;
+  display: inline;
+  position: relative;
+}
+
+.logoImage {
+  margin: 10px;
+  display: inline;
+}
+
+.login {
+  float: right;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+.line
+{
+  height: 1px;
+  width: 672px;
+  background-color: #ECECEC;
+  display: block;
+  position: absolute;
+  top: 43px;
+}
+
+.line2
+{
+  height: 1px;
+  width: 672px;
+  background-color: #ECECEC;
+  display: block;
+  position: absolute;
+  top: 455px;
+}
+
+.line3
+{
+  height: 1px;
+  width: 130px;
+  margin-left: 8px;
+  background-color: #666;
+  display: block;
+  position: absolute;
+  top: 455px;
+}
+
+.image {
+  margin: 0 5px;
+}
+
+.more {
+  float: right;
+  margin-right: 10px;
+  margin-top: 50px;
+}
+
+.middle {
+  margin: auto;
+}
+
+ul {
+  padding: 0;
+  margin: 0 0 12px 5px;
+  columns: 2;
+  column-gap: 6px;
+  list-style-type: none;
+}
